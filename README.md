@@ -18,6 +18,28 @@
 
 ✔️ Excluir um álbum;
 
+## 🛠 Como executar o projeto?
+
+1 - Abra seu terminal
+2 - Navegue até o diretório onde deseja clonar o projeto
+3 - Execute o seguinte comando para clonar o projeto do GitHub:
+```
+git clone https://github.com/matheusfsk/teste-supliu.git
+```
+4 - Navegue para o diretório do projeto clonado:
+```
+cd teste-supliu
+```
+5 - No terminal, execute o seguinte comando para instalar as dependências do projeto:
+```
+npm install
+```
+6 - Após instalar as dependências, você pode executar o projeto:
+```
+npm start
+```
+7 - Abra o navegador e acesse http://localhost:3000 para ver o aplicativo em execução.
+
 ## 🛠 Tecnologias
 
 <img align="center" alt="Celi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
