@@ -21,7 +21,9 @@
 ## 🛠 Como executar o projeto?
 
 1 - Abra seu terminal
+
 2 - Navegue até o diretório onde deseja clonar o projeto
+
 3 - Execute o seguinte comando para clonar o projeto do GitHub:
 ```
 git clone https://github.com/matheusfsk/teste-supliu.git
